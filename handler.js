@@ -34,7 +34,7 @@ module.exports = {
         global.wm2 = global.data.namabot + ' ' + global.data.owner
         global.wm = '© 𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
+        global.colong2 = '𝚁𝙲𝚃𝙸'
         global.kontak2 = [
         ['6289516947204', '𝚒𝚢𝚊𝚗-gg', '𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑩𝒐𝒕', 'https://saweria.co/IyanMd', true],
         ['6285770199435', await this.getName('6289516947204@s.whatsapp.net'), ' 𝙣𝙤𝙢𝙤𝙧 𝙗𝙤𝙩', 'https://saweria.co/IyanMd', true], 
